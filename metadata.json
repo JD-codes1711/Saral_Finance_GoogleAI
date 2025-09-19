@@ -1,0 +1,5 @@
+{
+  "name": "Saral Finance",
+  "description": "A financial literacy tool for Indian students to manage their monthly allowance. It helps track income and expenses, visualize spending through charts, and adhere to a monthly budget, all while storing data locally in the browser.",
+  "requestFramePermissions": []
+}
